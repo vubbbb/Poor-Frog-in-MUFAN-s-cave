@@ -20,6 +20,7 @@ while True:
             sys.exit()
 
     screen.fill("black")
+    
     level.run()
 
 
